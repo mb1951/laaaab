@@ -1,5 +1,9 @@
 <html>
     <body style="background-color:#FF8000">
+ <head>
+        <title>eva-lab</title>
+        <link rel="stylesheet" href="style.css"/>
+        </head>
         <header>
             <img class ="eva" src="https://retroville.ua/storage/establishments/logo/large/YHmBE2suapVyaXuoJPYbBOx02nXAebfEJNe01vbx.jpg" height="90px"/>
             </header>
